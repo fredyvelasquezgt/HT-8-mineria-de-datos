@@ -1,3 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Compare los dos modelos de regresión y determine cuál funcionó mejor para predecir el precio de las casas. 
 
 El modelo que nos funciono mejor fue el primer modelo, el modelo en el cual utilizamos nuestra variable categorica y no la variable SalePrice, por ende podemos concluir con que el mejor modelo para precedir el precio de las casas fue el metodo #1 con el modelo #2. 
