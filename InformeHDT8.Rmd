@@ -22,3 +22,7 @@ Comparado con las hojas de trabajo anteriores, tuvimos un nivel estandar, hemos 
 Realmente, luego de haber trabajado con todos los modelos, y tomando en cuanta los resultados anteriores, podemos concluir que el mejor modelo, o por lo menos el modelo que mejor nos resulto a nosotros, fue el modelo de Naive Bayes, en ese modelo llegamos a tener un nivel de acierto del 0.93%, lo cual podemos decir que es casi excelente, el otro modelo que nos ha resultado muy eficiente fue el de Random Forest, con el cual llegamos a tener un nivel de acierto de 0.82%. 
 
 Con base en lo anterior, podemos entoncer concluir con que los mejores modelos para precedir el precio de las casas con las condiciones dadas por el conjunto de datos, son: 
+
+1. NAIVE BAYES.
+
+2. RANDOM FOREST.
