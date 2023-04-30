@@ -5,3 +5,9 @@ El modelo que nos funciono mejor fue el primer modelo, el modelo en el cual util
 ### Compare  la  eficiencia  del  mejor  modelo  de  RNA  con  los  resultados  obtenidos  con  los algoritmos  de  las  hojas de  trabajo  anteriores.  ¿Cuál  es  mejor  para  predecir?  ¿Cuál  se demoró más en procesar? 
 
 Nuestro modelo numero #2, fue nuestro mejor modelo, obtuvo un valor de 0.75%, realmente comparado con las hojas de trabajo anteriores no es el mejor modelo, porque es un valor bajo, pero realmente cumple con su funcion, hace de una manera correcta la prediccion, pero el cual puede mejorar posiblemente cambiando las variables categoricas o incluso agregando mas variables. Pero a nivel de demora, realmente todos se toman el mismo tiempo, tiempo que solo varia en cuestion de milisegundos o incluso en el mayor de los casos, un segundo.
+
+
+### Compare los resultados del mejor modelo de esta hoja para clasificar con los resultados de los algoritmos usados para clasificar de las hojas de trabajo anteriores 
+
+
+En esta hoja, el mejor resultado que logramos fue con el modelo #2, el que realizamos con la libreria de Caret, obtuvimos un acierto del 0.75%, comparado con las hojas de trabajo anteriores, la verdad es que esta un poco bajo, mas sin embargo no esta fuera de la media que hemos tenido, podemos mencionar la hoja de trabajo con Arboles de decision, en la cual obtuvimos un valor de 0.70, lo cual es bastante semejante, pero comparado con las otra hojas sigue siendo bajo. 
