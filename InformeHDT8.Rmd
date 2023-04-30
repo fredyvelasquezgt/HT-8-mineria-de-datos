@@ -11,3 +11,8 @@ Nuestro modelo numero #2, fue nuestro mejor modelo, obtuvo un valor de 0.75%, re
 
 
 En esta hoja, el mejor resultado que logramos fue con el modelo #2, el que realizamos con la libreria de Caret, obtuvimos un acierto del 0.75%, comparado con las hojas de trabajo anteriores, la verdad es que esta un poco bajo, mas sin embargo no esta fuera de la media que hemos tenido, podemos mencionar la hoja de trabajo con Arboles de decision, en la cual obtuvimos un valor de 0.70, lo cual es bastante semejante, pero comparado con las otra hojas sigue siendo bajo. 
+
+### Compare  los  resultados  del  mejor  modelo  para  predecir  el  precio  de  venta  con  los resultados  de  los  algoritmos  usados  para  el  mismo  propósito  de  las  hojas  de  trabajo anteriores. 
+
+
+Comparado con las hojas de trabajo anteriores, tuvimos un nivel estandar, hemos tenido resultados que estan en el rango, podriamos decir que solo se hace una variacion por decimales. 
